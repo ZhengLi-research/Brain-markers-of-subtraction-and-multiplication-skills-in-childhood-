@@ -1,4 +1,4 @@
-# Prediction of subtraction and multiplication
+# Brain markers of subtraction and multiplication skills in childhood: task-based functional connectivity and individualized structural similarity
 
 ## Overview
 To identify the brain markers for subtraction and multiplication skills in childhood, the present study used a data-driven connectome-based prediction model to identify brain markers of arithmetic skills from arithmetic-state functional connectivity (FC) and individualized structural similarity (SS) in 132 children aged 8-15 years. 
